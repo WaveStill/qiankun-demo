@@ -1,3 +1,2 @@
-console.log(`'qiankun demo'`, 'qiankun demo')
 
-console.log(`234`, 234)
+console.log(`234`, 3333)
